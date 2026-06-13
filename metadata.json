@@ -1,0 +1,6 @@
+{
+  "name": "Smart Voice Assistant",
+  "description": "Powerful AI-powered voice assistant for Android devices with multi-lingual support, remote tracking, and custom accessibility automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

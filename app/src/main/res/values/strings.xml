@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Voice Assistant</string>
+    <string name="accessibility_desc">Enables Smart Voice Assistant to automate clicks and actions on your screen based on your voice commands.</string>
+</resources>
